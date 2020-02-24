@@ -1,1 +1,2 @@
 # Dali_App_20S
+### Hello! Please find my Dali application for 20S here. For the app, I chose to implement the data challenge. I wrote all of my code in Python in a Jupyter notebook, where I made some visuals about the anonymous Dali data and made some models to try and predict whether a Dali member was affiliated or not. I ended up with about a 67% accuracy rate. Check out the notebook for more details!
